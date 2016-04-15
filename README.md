@@ -12,3 +12,4 @@ $ ln -sf $(pwd)/bashrc ~/.bashrc
 $ . ~/.profile
 ```
 
+Referência: https://github.com/GustavoVS/bashrc
