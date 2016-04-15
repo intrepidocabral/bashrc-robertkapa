@@ -12,4 +12,8 @@ $ ln -sf $(pwd)/bashrc ~/.bashrc
 $ . ~/.profile
 ```
 
+```
+$ source /etc/bash_completion.d/git-prompt
+```
+
 Referência: https://github.com/GustavoVS/bashrc
