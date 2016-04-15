@@ -1,3 +1,5 @@
+![GitHub Logo](images/robert_kapa_second_war.jpg)
+
 # BASHRC do Robert Kapa
 
 Estes são os arquivos de configuração do shell bash do Mr. Kapa. 
